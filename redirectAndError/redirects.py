@@ -6,6 +6,8 @@ def index():
 
 @route('/restricted')
 def restricted():
+	#authorization function
+	#if it fails
 	redirect('/')
 
 
