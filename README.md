@@ -1,10 +1,10 @@
 # python-bottle
 
-This repository conatins some sample code for python-bottle framework.Below are the packages which are used to develop.
+This repository conatins some sample code for python-bottle framework.Below are the packages which are used to develop.<br/>
 
-```https://bottlepy.org/docs/dev/```
-```https://pypi.org/project/Paste/```
-```https://bottlepy.org/docs/0.12/plugins/sqlite.html```
+```https://bottlepy.org/docs/dev/```<br/>
+```https://pypi.org/project/Paste/```<br/>
+```https://bottlepy.org/docs/0.12/plugins/sqlite.html```<br/>
 
 Bottle is a fast, simple and lightweight WSGI micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the Python Standard Library.
 
@@ -12,10 +12,10 @@ Bottle-SQLite is a self-contained SQL database engine that runs locally and does
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.<br/>
 
 ```bash
-pip install bottle
-pip install Paste
-pip install bottle-sqlite
+pip install bottle<br/>
+pip install Paste<br/>
+pip install bottle-sqlite<br/>
 ```
