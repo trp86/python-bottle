@@ -15,7 +15,7 @@ Bottle-SQLite is a self-contained SQL database engine that runs locally and does
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.<br/>
 
 ```bash
-pip install bottle<br/>
-pip install Paste<br/>
-pip install bottle-sqlite<br/>
+pip install bottle
+pip install Paste
+pip install bottle-sqlite
 ```
